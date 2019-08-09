@@ -18,6 +18,7 @@ public class Case3Java implements Case3 {
     @NotNull
     @Override
     public String times(@NotNull String value1, @NotNull String value2) {
+
         throw new NotImplementedError("TODO");
     }
 }

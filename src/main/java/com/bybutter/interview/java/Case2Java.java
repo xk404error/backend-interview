@@ -19,6 +19,6 @@ public class Case2Java implements Case2 {
     @NotNull
     @Override
     public String minus(@NotNull String value1, @NotNull String value2) {
-        throw new NotImplementedError("TODO");
+
     }
 }

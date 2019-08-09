@@ -33,6 +33,7 @@ public class Case7Java implements Case7 {
      */
     @Override
     public boolean turnAllOn(@NotNull LampBelt belt) {
+
         throw new NotImplementedError("TODO");
     }
 }
